@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a8f3eb-e813-4772-9bd3-cd6fceea06ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PdM_ML" />
+  </component>
+  <component name="ProjectId" id="1W4K5UvWqR0nEU2nT9VIqses9Z0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.pdmtut1">
+    <configuration name="pdmtut1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pdmtut1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pdmtut1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pdmtut1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pdmtut1" />
+        <item itemvalue="Python.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a8f3eb-e813-4772-9bd3-cd6fceea06ab" name="Default Changelist" comment="" />
+      <created>1578403243769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578403243769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578587295009">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1578587295009" />
+    <state width="1256" height="162" key="GridCell.Tab.0.bottom" timestamp="1578677275084">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578677275084" />
+    <state width="1256" height="162" key="GridCell.Tab.0.center" timestamp="1578677275063">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578677275063" />
+    <state width="1256" height="162" key="GridCell.Tab.0.left" timestamp="1578677275062">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578677275062" />
+    <state width="1256" height="162" key="GridCell.Tab.0.right" timestamp="1578677275083">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1256" height="162" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578677275083" />
+    <state x="187" y="27" key="SettingsEditor" timestamp="1578587308262">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="187" y="27" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578587308262" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578901586949">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1578901586949" />
+    <state x="380" y="90" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578494458596">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="90" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1578494458596" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578671163210">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1578671163209" />
+  </component>
+</project>
