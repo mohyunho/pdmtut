@@ -1,4 +1,4 @@
 # pdmtut
 Tutorial for pdm 
 
--You need to install GIT LFS (https://git-lfs.github.com/)
+-For the tutorial, you need to install GIT LFS (https://git-lfs.github.com/) before clone the repository
